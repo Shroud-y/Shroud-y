@@ -1,17 +1,4 @@
-# Hi 👋
-
-I am an aspiring Software Engineer and Developer with a passion for game mechanics, AI, and building functional software. Currently focusing on mastering Java and preparing for my university studies in Software Engineering.
-
-### 🚀 What I'm working on now
-- **Mindustry Modding:** Developing custom mods using **Java**.
-- **Game Development:** Developing a RTS on Java.
-- **Academic Goals:** Preparing for entrance exams and building a solid foundation in computer science theory.
-
-### 🛠 Tech Stack & Tools
-- **Languages:** Java (Core), Python, C#
-- **Currently Learning:** Advanced AI integration and Software Architecture
-
-### 📫 Let's Connect
+### Let's Connect
 - **Email:** maxpasko58@gmail.com
 - **Telegram:** @maxympasko
 
